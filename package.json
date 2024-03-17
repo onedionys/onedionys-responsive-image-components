@@ -1,0 +1,36 @@
+{
+  "name": "onedionys-responsive-image-components",
+  "version": "1.0.0",
+  "description": "One Dionys (Responsive Image Components) - Components that automatically adjust the image size and quality according to the user's device and screen width.",
+  "main": "src/responsiveImage.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-responsive-image-components.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "responsive-image-components"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-responsive-image-components/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-responsive-image-components#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21"
+  }
+}
