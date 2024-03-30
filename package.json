@@ -1,6 +1,6 @@
 {
   "name": "onedionys-responsive-image-components",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "One Dionys (Responsive Image Components) - Components that automatically adjust the image size and quality according to the user's device and screen width.",
   "main": "src/responsiveImage.js",
   "directories": {
